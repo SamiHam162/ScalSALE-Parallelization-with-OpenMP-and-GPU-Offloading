@@ -1,0 +1,1 @@
+/glob/development-tools/versions/oneapi/2023.0.1/oneapi/mpi/2021.8.0/bin/mpif90 -fPIC -fPIC -cpp -fpp -O2 -g -qopenmp   -shared -nofor_main -Wl,-soname,libDiagnostics.so -o ../lib/libDiagnostics.so CMakeFiles/Diagnostics.dir/textual_diagnostic.f90.o 
